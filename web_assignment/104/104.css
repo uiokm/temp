@@ -1,0 +1,15 @@
+img {
+    display: block;
+    width: 40%;
+    height: auto;
+    margin: 0 auto;
+}
+
+body {
+    text-align: center;
+    font-size: 25px;
+}
+
+#color2 {
+    color: red;
+}
